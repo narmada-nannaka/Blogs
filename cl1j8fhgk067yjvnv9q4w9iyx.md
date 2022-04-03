@@ -1,7 +1,7 @@
 ## Understanding Design Concerns in Systems Architecture
 
 
-For the past 8 years, apart from leading projects delivery, I have been heavily involved in designing solutions and had my fair share of documenting solutions blueprints. Before you build any system - looking at it from different perspectives, working the optimal solution out of multiple alternatives, selecting infrastructure, and estimating - is always a unique and challenging problem-solving exercise. It is an art, one you need to be passionate about and have the instinct to make the risky decisions that balance out with the right outcomes. 
+Before you build any system - looking at it from different perspectives, working on the optimal solution from the list of available alternatives, selecting infrastructure, and estimating - is always a unique and challenging problem-solving exercise. It is an art, one you need to be passionate about and have the instinct to make the risky decisions that balance out with the right outcomes. 
 
 This blog focuses on understanding the design concerns which drive some of the key decisions in systems architecture. These design concerns are the thumb rules that guide in making the right choices throughout the project life cycle. 
 
@@ -55,7 +55,7 @@ Even when there are no explicit requirements stated by the client, there will st
 
 These concerns should always be in the back of your mind to rule out all known and unknown assumptions. 
 
-## Two Additional Concerns
+### Two Additional Concerns
 
 - Affordability
 - Sustainability
@@ -66,9 +66,9 @@ Yes, the cloud and some of the latest technologies can provide infinite and bott
 
 One thing to keep in mind is that when designing for the balance between affordability and sustainability, it is important to decouple innovation from the notion of new. 
 
-## Use Case
+## AWS Use Case
 
-To learn how to apply the above-mentioned design concerns to a use case on deploying a highly available and scalable WordPress site on AWS - check this [youtube video](https://www.youtube.com/watch?v=rOSpqA3UmwA&t=53s). 
+To learn more about how to apply the above-mentioned design concerns to a use case on deploying a highly available and scalable WordPress site on AWS - check out this [youtube video](https://www.youtube.com/watch?v=rOSpqA3UmwA&t=53s). 
 
 # Thank you for Reading - Let's Connect!
 Enjoy my blog? For more such awesome blog articles - follow, subscribe, and let's connect.
