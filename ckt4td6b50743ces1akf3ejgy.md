@@ -4,7 +4,7 @@ A few months back I did a career guidance session for a class of year 11 student
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1622235559204/WtKucnYTD.png)
 
-Career choices are often difficult and way too complicated to decide at such an early age of Year 11 and 12. I remember too well when I had a similar conversation with my parents in Year 10. I had to decide on my main career subjects. Maths means Engineering fields, Biology means Medical fields and now you are thinking I am going to write a full list. Nope, I only got 2 choices. It is one of those times in India and I guess still in other places where a good career is either an Engineer or a Doctor. And, here I am thinking of becoming an Archeologist and raid for treasures like Laura Croft. It was a bit of a reality check for me. 
+Career choices are often difficult and way too complicated to decide at such an early age of Year 11 and 12. I remember too well when I had a similar conversation with my parents in Year 10. I had to decide on my main career subjects. Maths means Engineering fields, Biology means Medical fields and now you are thinking I am going to write a full list. Nope, I only got 2 choices. It is one of those times from where I am from and I guess still in other places where a good career is either an Engineer or a Doctor. And, here I am thinking of becoming an Archeologist and raid for treasures like Laura Croft. It was a bit of a reality check for me. 
 
 <iframe src="https://gifer.com/embed/2Y1V" width=480 height=203.520 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
