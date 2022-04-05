@@ -1,4 +1,4 @@
-## How to override a CSS style from another style
+## How to override a CSS style
 
 When multiple CSS rules reference the same HTML element, the browser needs a rule of thumb to predict which styling instruction should take precedence. This is known as the CSS override. Depending on which selector type is used to style an element, there are certain rules that determine which style overrides another.
 
