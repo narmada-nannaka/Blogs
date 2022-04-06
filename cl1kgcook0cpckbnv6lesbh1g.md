@@ -26,6 +26,6 @@ Once the above script is run, you should be able to load the pssnap-in by runnin
 
 The above command will load the modules and from here you should be good to run the FIM-related cmdlets from your PowerShell.
 
-#Thank you for Reading - Let's Connect!
+# Thank you for Reading - Let's Connect!
 Enjoy my blog? For more such awesome blog articles - follow, subscribe and let's connect.
 
