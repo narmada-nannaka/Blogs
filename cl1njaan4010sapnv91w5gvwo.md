@@ -2,7 +2,7 @@
 
 The recent pandemic has brought a surge in digital transformations with a growing demand to migrate the applications and/or services to the cloud to cut down on costs. According to [ISG Provider Lens Report](https://www.tcs.com/content/dam/tcs/pdf/discover-tcs/about-us/analystreport/tcs-recognised-leader-aws-services-australia.pdf), there has been a demand from firms in seeking out AWS provider partners. Now, if you have been part of this transformation, one of the most commonly asked questions is about the selection of the AWS region. 
 
-#What is a Region?
+# What is a Region?
 
 A region is a self-contained geographic location positioned within a single country boundary and hence bounded by a single set of laws. 
 
@@ -25,7 +25,7 @@ As mentioned above, the majority of the AWS services are region-based. Let's say
 - Are the services required to deploy your enterprise application available in a region?
 - Where are your end-users located?
 - Are there any additional costs involved in your selected region?
-- Are there any compliance requirements stated by the law in which the region is located?
+- Are there any compliance requirements stated by the law in the location the region is in?
 
 ## Service Availability
 
