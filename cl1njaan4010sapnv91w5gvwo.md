@@ -1,6 +1,6 @@
 ## How to choose your AWS Region?
 
-The recent pandemic has brought a surge of digital transformations with a growing demand to migrate the applications and/or services to the cloud to cut down on costs. According to [ISG Provider Lens Report](https://www.tcs.com/content/dam/tcs/pdf/discover-tcs/about-us/analystreport/tcs-recognised-leader-aws-services-australia.pdf), there has been a demand from firms in seeking out AWS provider partners. Now, if you have been part of this transformation, one of the most commonly asked questions is about the selection of the AWS regions. 
+The recent pandemic has brought a surge in digital transformations with a growing demand to migrate the applications and/or services to the cloud to cut down on costs. According to [ISG Provider Lens Report](https://www.tcs.com/content/dam/tcs/pdf/discover-tcs/about-us/analystreport/tcs-recognised-leader-aws-services-australia.pdf), there has been a demand from firms in seeking out AWS provider partners. Now, if you have been part of this transformation, one of the most commonly asked questions is about the selection of the AWS region. 
 
 #What is a Region?
 
@@ -23,8 +23,8 @@ On the other hand, some of the AWS services are global and hence do not require 
 As mentioned above, the majority of the AWS services are region-based. Let's say you have made the call to move your existing enterprise application to AWS. Before the application is deployed to an EC2 instance, your first step will be the region selection. This can be determined by answering the following questions: 
 
 - Are the services required to deploy your enterprise application available in a region?
-- Where does most of your user volume is located?
-- What costs are involved in the region?
+- Where are your end-users located?
+- Are there any additional costs involved in your selected region?
 - Are there any compliance requirements stated by the law in which the region is located?
 
 ## Service Availability
