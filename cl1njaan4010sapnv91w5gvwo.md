@@ -6,9 +6,9 @@ The recent pandemic has brought a surge in digital transformations with a growin
 
 A region is a self-contained geographic location positioned within a single country boundary and hence bounded by a single set of laws. 
 
-![A view of the data centers.](https://cdn.hashnode.com/res/hashnode/image/upload/v1649159659287/Jglf8A8mo.jpg)
+![A view of the data centres.](https://cdn.hashnode.com/res/hashnode/image/upload/v1649159659287/Jglf8A8mo.jpg)
 
-To put this into context, imagine you have a group of logical data centers within a single geographic location (let's say, Sydney West). This is called an availability zone (AZ). Now group a cluster of these AZs which are connected by a proprietary high-speed fiber network (100GbE fiber network backbone) with multiple lines between every AZ so the cluster of data centers can be treated as a single area. This area will end up being your region. 
+To put this into context, imagine you have a group of logical data centres within a single geographic location (let's say, Sydney West). This is called an availability zone (AZ). Now group a cluster of these AZs which are connected by a proprietary high-speed fibre network (100GbE fibre network backbone) with multiple lines between every AZ so the cluster of data centres can be treated as a single area. This area will end up being your region. 
 
 # Why does it matter?
 
@@ -45,7 +45,7 @@ Research where your user volume is located. Let's say all your users are from Au
 
 As regions are geographic locations within a single country, these regions are bound to the laws governed by the location. This in turn will have a variance in taxes and the costs involved in hosting the resources within the AWS infrastructure. 
 
-Depending on your costs, you can make the choice of selecting a region that will work within your budget. 
+Depending on your costs, you can choose by selecting a region that will work within your budget. 
 
 ## Compliance
 
