@@ -14,7 +14,7 @@ The guardrails are implemented through four main patterns:
 
 A file is used as the media to transfer data between applications. When designing solutions for this particular integration, the key points of interest should be file name, file location, size, format, frequency of updates and read-write access to define the delete privilege - Job Scheduler, WORM (Write once and Read Many).
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659297354063/NOmboBKzE.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677123360737/d6ae4f16-4cce-4c53-974d-bb0351feb13a.png align="center")
 
 When migrating servers from data centres to the cloud, this will be a common pattern to implement to transfer files from on-premises legacy applications to cloud storage like Amazon EFS or Amazon S3.
 
