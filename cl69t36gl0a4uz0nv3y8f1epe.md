@@ -28,7 +28,7 @@ The database is the media in which integration happens. Multiple applications sh
 
 A standard functionality or service is built to be exposed by one of the applications. This will be later accessed or invoked as a remote procedure by other applications—For example REST API.
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659299641271/WaNsi-W-9.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677123539316/756d470c-5734-407d-a2ec-0d871188d350.png align="center")
 
 ## Messaging
 
@@ -41,7 +41,7 @@ The applications integrate by sharing messages between them. Similar to file tra
 * Pub-Sub
     
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659300527596/FTbylBd1H.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1677123884892/64fa7394-ed37-43d1-a4db-fba233f2d5c6.png align="center")
 
 When designing a messaging integration pattern, it is important to agree on the message translation format, schema structure and the composition of data attributes, types, lengths and business rules to validate the transfer.
 
