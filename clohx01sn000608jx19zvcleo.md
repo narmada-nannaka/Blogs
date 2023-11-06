@@ -8,7 +8,7 @@ tags: career, career-advice, womenwhocode, womentechmakers, widawards
 
 ---
 
-> The mind is everything. What you think you become. - Ralph Waldo Emerson
+> The mind is everything. What you think you become. - Buddha
 
 Every year, approximately 400,000 overseas students are granted subclass 500 visas to study in [Australia](https://www.studentjobboard.com.au/blog/international-students-working-in-australia/). In 2012, I was one among them. If you have viewed my [LinkedIn profile](https://www.linkedin.com/in/narmada-nannaka/), my career path has been gradual and smooth. Behind the lines, there is a story and one that will resonate with immigrant students. If you are contemplating moving to Australia for higher studies, this is for you. Through this blog, I will narrate the untold story at the same time, share the lessons I learnt through the journey.
 
