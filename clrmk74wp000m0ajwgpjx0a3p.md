@@ -4,7 +4,7 @@ datePublished: Sat Jan 20 2024 21:05:50 GMT+0000 (Coordinated Universal Time)
 cuid: clrmk74wp000m0ajwgpjx0a3p
 slug: az-900-mastery-unveiling-microsoft-azure-fundamentals-exam-guide-for-success
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705784580499/091906e7-54fd-4d1e-84c4-cdb7cb6edc5d.png
-tags: cloud, azure, cloud-computing, azure-certified
+tags: cloud, azure, cloud-computing, azure-certified, cloud-architecture
 
 ---
 
